@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/texhad3op/Desktop/g/graph-constrained_2.10-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/texhad3op/Desktop/g/graph-core_2.10-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/texhad3op/Desktop/g/graph-dot_2.10-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/texhad3op/Desktop/g/graph-json_2.10-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ScalaLearning/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
